@@ -1,5 +1,6 @@
 # Simple UDP chatapp
 A simple UDP chat application for communicating with your phone using UDP monitor.
+
 • Install the UDP monitor application on your android phone. Connect your phone and PC
 such that they are on the same network. This can be done either by
   * Connecting them to the same wifi network
